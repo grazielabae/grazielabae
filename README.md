@@ -2,8 +2,10 @@
 <br>
 <br> 
 
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=30&pause=1000&color=F7096B&center=true&width=750&height=150&lines=Welcome!;Hello!+My+name+is+Graziela;I'm+from+Brazil;and+a+huge+UX+Design+enthusiast)](https://git.io/typing-svg)<br>
 <br>
+<div align="center">
 
 <div align="center">
   
