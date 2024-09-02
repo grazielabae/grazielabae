@@ -9,7 +9,7 @@
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=grazielabae&theme=shadow-purple&card_width=1000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=grazielabae&theme=modern-lilac&card_width=1000)](https://git.io/streak-stats)
 
 <div align="center"> 
 
