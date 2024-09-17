@@ -1,4 +1,5 @@
-<img width=100% bottom=50px src="https://github.com/user-attachments/assets/e4e4e9e2-9632-41ac-9966-d351903a45af"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A604FF&height=120&section=header"/>
+
 <br>
 <br> 
 
